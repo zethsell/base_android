@@ -8,8 +8,8 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import com.zeth.firstapp.SampleData
 import com.zeth.firstapp.data.models.Message
+import com.zeth.firstapp.data.models.SampleData
 import com.zeth.firstapp.ui.theme.FirstAppTheme
 
 @Composable
